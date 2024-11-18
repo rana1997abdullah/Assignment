@@ -1,0 +1,11 @@
+.list-item{
+ color: green;
+ font-weight: bold;
+}
+.list{
+    border: 1px solid;
+    background-color: lightgray;
+}
+.heading{
+    text-align: center;
+}
